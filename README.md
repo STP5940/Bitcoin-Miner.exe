@@ -36,4 +36,5 @@
   >> คุณสามารถแปลงเป็นเงินบาทได้กับทาง Bitcoin ประเทศไทย ที่เว็บไซต์ : https://bitcoin.co.th
 
 Bonate: 37V4X1NokPd5yHmB1vJvHZRyoN865oAuRc
+
 Bitcoin Miner Free Powered by STP5940
